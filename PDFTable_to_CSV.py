@@ -1,38 +1,61 @@
-import tabula
+import os
+import pdfplumber
 import pandas as pd
 
+# #------#
+# |      | 
+# |      |
+# #------#
 def create_paths(start_y,max_y):
 
-    path_list = []
+    name_list = []
     curr_y = start_y
-    nsr_dir = '~/NSRData_PDF/'
 
     while (curr_y <= max_y):
-        path = nsr_dir + 'NSR_' + curr_y + '.pdf'
-        path_list.append(path)
-        year+=1
-
-    return path_list 
-
-def to_dataFrame(start_y,max_y,path_list):
-    df_dict = {}
-    curr_y = start_y
-
-    for p in path_list:
-        df = tabula.read_pdf(p,pages='all',lattice=True)
-        df_dict[curr_y] = df 
+        file_name =  'NSR_' + str(curr_y) + '.pdf'
+        name_list.append(file_name)
         curr_y+=1
 
-    return df_dict 
+    return name_list
 
+# #------#
+# |      | 
+# |      |
+# #------#
+def to_dataframe(start_y,name_list):
+    
+    pdf_dict = {}
+    curr_y = start_y
+    nsr_dir = '/home/csmith/desktop/nsr-project/NSRData_PDF/'
 
+    for n in name_list:
+        full_path = os.path.join(nsr_dir,n)
+        pdf = pdfplumber.open(full_path)
+        pdf_dict[curr_y] = pdf
+        curr_y+=1
+
+    return pdf_dict 
+
+# #------#
+# |      | 
+# |      |
+# #------#
+def extract_pages(pdf):
+    
+    
+    
+# #------#
+# |      | 
+# |      |
+# #------#
 def main():
-    start_year = '2011'
-    max_year = '2018'
-    df_dict = to_dataFrame(start_year,max_year,create_paths())
+    
+    start_year = 2011
+    max_year = 2018
+    pdf_dict = to_dataframe(start_year,create_paths(start_year,max_year))
 
-    table = df_dict['2011'][0] 
-    print(table)
+    for file in pdf_dict.items():
+        extract_pages(file)
 
 if __name__ == '__main__':
     main()
