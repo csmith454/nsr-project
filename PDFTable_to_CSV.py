@@ -1,6 +1,7 @@
 import os
 import pdfplumber
 import pandas as pd
+from itertools import chain
 
 # #------#
 # |      | 
@@ -44,12 +45,12 @@ def extract_pages(start_y,pdf_dict):
     
     # .extract_table() takes JSON style table settings if needed
     
-    curr_y = start_y
+    curr_y = start_y 
     table_dict = {}
     
-    for item in pdf_dict.items():                              # enter into each pdf_dict entry
+    for item in pdf_dict.items():                              # enter into pdf_dict
         table_list = []
-        for n in range(len(pdf_dict[curr_y].pages)):           # enter into each page of a particular pdf
+        for n in range(len(pdf_dict[curr_y].pages)):           # enter into each page of a particular pdf_dict val
             table_to_add = pdf_dict[curr_y].pages[n].extract_table() 
             table_list.append(table_to_add)
         table_dict[curr_y] = table_list 
@@ -61,18 +62,16 @@ def extract_pages(start_y,pdf_dict):
 # |      | 
 # |      |
 # #------#
-def to_dataframe(start_y,table_dict):
+def to_dataframe(table_dict):
     
-    curr_y = start_y
     df_dict = {}
     
+    for key,val in table_dict.items():
+        val = list(chain(*val))                                   # flatten table_dict value for each year
+        data = val 
+        df_dict[key] = pd.DataFrame(data)
+        print(df_dict[key]) 
     
-    for item in table_dict.items():
-        for n in range(len(table_dict[curr_y])):
-            data = table_dict[curr_y][:] 
-        df_dict[curr_y] = pd.DataFrame(data) 
-        curr_y+=1
-        
     return df_dict
     
 # #------#
@@ -88,7 +87,9 @@ def main():
 
     table_dict = extract_pages(start_year, pdf_dict)
     
-    df_dict = to_dataframe(start_year,table_dict)
+    df_dict = to_dataframe(table_dict) 
+    
+    print(df_dict[2011])
     
     print('Beginning CSV conversion...')
     print('Converting ' + str(len(df_dict.keys())) + ' DataFrames to CSV')

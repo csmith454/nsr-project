@@ -1,0 +1,51 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16
+0,,Vessel,,,,,,Departure,,,NSR,,,,Arrival,,
+1,,Vessel name,Iceclass,Flag,Owner,Vessel type,GRT,Country,Port,Date,Point of entry,Entry,Point of exit,Exit,Country,Port,Date
+2,1,Tian Hui,Arc 4,China,COSCO,"General
+cargo",26787,Germany,Emden,05.07.18,C.Zhelaniya,24.07.18,C.Dezhnev,03.08.18,Japan,Tomakomai,12.08.18
+3,2,Tian You,Arc 4,China,COSCO,"General
+cargo",26787,S Korea,Busan,20.07.18,C.Dezhnev,28.07.18,C.Zhelaniya,11.08.18,Sweden,Harnosand,20.08.18
+4,3,Tian Jian,Ice 1,China,COSCO,Heavy Load,26770,Denmark,Skagen,30.07.18,C.Zhelaniya,05.08.18,C.Dezhnev,19.08.18,China,Qingdao,02.09.18
+5,4,Atlantic Winter,Arc 4,Portugal,Atlantic Winter,"General
+cargo",15549,China,Taicang,30.07.18,C.Dezhnev,08.08.18,C.Zhelaniya,16.08.18,Sweden,Harnosand,31.08.18
+6,5,Kairos,No,Russia,"Morskoy
+Standard",Tanker,27526,Russia,P.Kamchatskiy,08.08.18,C.Dezhnev,11.08.18,Kara Gate,23.08.18,Russia,Murmansk,29.08.18
+7,6,Tian En,Arc 4,China,COSCO,"General
+cargo",26787,S Korea,Busan,07.08.18,C.Dezhnev,16.08.18,C.Zhelaniya,28.08.18,France,Rouen,05.09.18
+8,7,Progress,Arc 4,Russia,YUZHMORRYBFLOT,Reefer,4295,Russia,Anadyr,16.08.18,C.Dezhnev,17.08.18,Kara Gate,26.08.18,Russia,Arkhangelsk,28.08.18
+9,8,Progress,Arc 4,Russia,YUZHMORRYBFLOT,Reefer,4295,Russia,Arkhangelsk,01.09.18,Kara Gate,03.09.18,C.Dezhnev,11.09.18,Russia,P.Kamchatskiy,17.09.18
+10,9,Tian Qi,Ice 1,China,COSCO,"General
+cargo",26770,Finland,Kotka,17.08.18,C.Zhelaniya,26.08.18,C.Dezhnev,07.09.18,China,Qingdao,21.09.18
+11,10,Argo,Ice 2,Russia,Neva-Charter,Tug,467,Russia,Murmansk,20.08.18,Kara Gate,25.08.18,C.Dezhnev,11.09.18,Russia,P.Kamchatskiy,21.09.18
+12,11,Venta Maersk,Arc 4,Denmark,"Maersk Line
+AS.",Container,34882,S Korea,Busan,28.08.18,C.Dezhnev,06.09.18,C.Zhelaniya,14.09.18,Germany,Bremerhaven,22.09.18
+13,12,Haaga,Arc 4,Portugal,ESL Shipping,"General
+cargo",19955,Japan,Sakaide,02.09.18,C.Dezhnev,13.09.18,C.Zhelaniya,20.09.18,Sweden,Oxelosund,02.10.18
+14,13,Tian Lu,Ice 1,Hong Kong,COSCO,"General
+cargo",38122,Hong Kong,Hong Kong,03.09.18,C.Dezhnev,15.09.18,C.Zhelaniya,22.09.18,UK,Kingston,30.09.18
+15,14,Jupiter,Ice 1,Russia,Antey,Fishing,1201,Russia,Arkhangelsk,14.09.18,C.Zhelaniya,17.09.18,C.Dezhnev,26.09.18,Russia,P.Kamchatskiy,01.10.18
+16,15,Biglift Barentsz,Arc 4,Netherlands,BigLift Shipping,Heavy Load,23134,S Korea,Yosu,16.09.18,C.Dezhnev,26.09.18,C.Zhelaniya,04.10.18,Netherlands,Rotterdam,14.10.18
+17,16,Viikki,Arc 4,Finland,ESL Shipping,"General
+cargo",19955,Japan,Sakaide,25.09.18,C.Dezhnev,08.10.18,C.Zhelaniya,16.10.18,Norway,Hammerfest,19.10.18
+18,17,"Tasmanic
+Winter",Arc 4,Liberia,"Tasmanic
+Winter",Heavy Load,15549,China,Jiangsu,30.09.18,C.Dezhnev,12.10.18,Kara Gate,21.10.18,Netherlands,Rotterdam,28.10.18
+19,18,DS Marmadura,Arc 4,Antigua,"DS Multibulk
+Gmbh","General
+cargo",10508,Russia,P.Kamchatskiy,10.10.18,C.Dezhnev,14.10.18,Kara Gate,24.10.18,Russia,Murmansk,26.10.18
+20,19,Nordic Olympic,Arc 4,Panama,"Bulk Nordic
+Olympic",Bulk,41071,Canada,Nunavut,09.10.18,C.Zhelaniya,24.10.18,C.Dezhnev,02.11.18,Russia,Nakhodka,13.11.18
+21,20,Azure Coast,Ice 1,Saint Kitts,"ROBERVAL
+IMPEX S.A",Pallet,2731,Island,Reykjavik,13.10.18,C.Zhelaniya,22.10.18,C.Dezhnev,31.10.18,Japan,Ishinomaki,14.11.18
+22,21,"Lomonosov
+Prospect",Ice 3,Liberia,"Purposeful
+Corp.",Tanker,64909,S Korea,Yosu,11.10.18,C.Dezhnev,23.10.18,C.Zhelaniya,30.10.18,Netherlands,Rotterdam,10.11.18
+23,22,Nordic Oshima,Arc 4,Panama,"Bulk Nordic
+Olympic",Bulk,41071,Canada,Nunavut,15.10.18,C.Zhelaniya,30.10.18,C.Dezhnev,08.11.18,Russia,Nakhodka,18.11.18
+24,23,Tian Hui,Arc 4,China,COSCO,"General
+cargo",26787,China,Jiangsu,20.09.18,C.Dezhnev,30.09.18,C.Zhelaniya,06.10.18,Sweden,Oskarshamn,15.10.18
+25,24,Egvekinot,Arc 4,Russia,Oil-Compact,Tanker,4110,Russia,Arkhangelsk,05.09.18,Kara Gate,08.09.18,C.Dezhnev,19.09.18,Russia,Provideniya,20.09.18
+26,25,Tian You,Arc 4,China,COSCO,"General
+cargo",26787,Norway,Hyefjorden,28.09.18,C.Zhelaniya,04.10.18,C.Dezhnev,11.10.18,China,Nansha,25.10.18
+27,26,Argo,Ice 2,Russia,Neva-Charter,Tug,467,Russia,P.Kamchatskiy,24.09.18,C.Dezhnev,02.10.18,Yug.Shar,15.10.18,Russia,Arkhangelsk,19.10.18
+28,27,Novorossiysk,ib 6,Russia,Rosmorport,Icebreaker,13867,Russia,Murmansk,22.11.18,Kara Gate,24.11.18,C.Dezhnev,03.12.18,Russia,Vanino,17.12.18
