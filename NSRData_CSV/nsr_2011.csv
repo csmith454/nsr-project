@@ -1,0 +1,75 @@
+,0,1,2,3,4,5,6
+0,,Vessel’s Name,Type,Flag,Cargo,Port of Loading,Port of Destination
+1,1.,Perseverance,Tanker vessel,Singapore,Gas condensate,"Vitino, Russia","Ningbo,
+China"
+2,2.,STI Heritage,Tanker vessel,"Marshall
+Islands",Gas condensate,"Vitino, Russia","Map Ta Phut, Thailand"
+3,3.,Marilee,Tanker vessel,Norway,Gas condensate,"Vitino, Russia","Huizhou,
+China"
+4,4.,Vladimir Tikhonov,Tanker vessel,Liberia,Gas condensate,"Honningsvåg,
+Norway","Map Ta Phut, Thailand"
+5,5.,Stena Poseidon,Tanker vessel,Finland,Gas condensate,"Vitino, Russia","Incheon,
+South Korea"
+6,6.,Perseverance,Tanker vessel,Singapore,Naphtha,"Yeosu,
+South Korea","Le Havre,
+France"
+7,7.,Palva,Tanker vessel,Finland,Gas condensate,"Vitino, Russia","Huizhou,
+China"
+8,8.,Mariann,Tanker vessel,Norway,Gas condensate,"Vitino, Russia","Incheon,
+South Korea"
+9,9.,Affinity,Tanker vessel,Singapore,Gas condensate,"Vitino, Russia","Huizhou,
+China"
+10,10.,Renda,Tanker vessel,Russia,Diesel oil,West,East
+11,11.,Taganroga,Tanker vessel,Russia,Diesel oil,West,East
+12,12.,Razna,Tanker vessel,Russia,Diesel oil,Archangelsk,Yuzhno-Kuril'sk
+13,13.,Kasira,Tanker vessel,Russia,Diesel oil,Archangelsk,Ust'-Kam-chatsk
+14,14.,Perseverance,Tanker vessel,Singapore,Gas condensate,"Vitino, Russia","Huizhou,
+China"
+15,15.,Ventspils,Tanker vessel,Russia,Diesel oil,Archangelsk,Ust'-Kam-chatsk
+16,16.,Sanko Odyssey,Bulker vessel,Liberia,"Iron-ore
+concentrate","Murmansk, Russia",China
+17,17.,Mikhail Kutuzov,Bulker vessel,Russia,"Iron-ore
+concentrate","Murmansk, Russia","Jingtang,
+China"
+18,18.,Dmitriy Pozharskiy,Bulker vessel,Russia,"Iron-ore
+concentrate","Murmansk, Russia","Jingtang,
+China"
+19,19.,"Kommynary
+Nikolaeva","Refrigerator
+vessel",Russia,Frozen fish,"Petropavlovsk-Kamchatskiy,
+Russia","St.Petersburg, Russia"
+20,20.,Captain Prykha,"Refrigerator
+vessel",Russia,Frozen fish,"Vladivostok, Russia","St.Petersburg, Russia"
+21,21.,Reinfrost,"Refrigerator
+vessel",Panama,Frozen fish,"Petropavlovsk-Kamchatskiy,
+Russia","St.Petersburg, Russia"
+22,22.,Bereg Nadezhdy,"Refrigerator
+vessel",Russia,Frozen fish,"Petropavlovsk-Kamchatskiy,
+Russia","St.Petersburg, Russia"
+23,23.,Pioner Moldavii,General cargo,Russia,General cargo,"Larvik, Norway",Holmsk
+24,24.,Zapolyarniy,Container vessel,Russia,Copper and nickel,Dudinka,China
+25,25.,Pioner Moldavii,General cargo,Russia,General cargo,Holms and Vanino,"Dudinka and
+Baydaratskaya bay"
+26,26.,Zapolyarniy,Container vessel,Russia,Containers,Shanghai China,Dudinka
+27,27.,Kigoriak,Icebreaker,Russia,ballast,East,West
+28,28.,Rostov Velikiy,Diving ship,Russia,ballast,West,East
+29,29.,"Academician
+Shokalskiy",Cruiser,Russia,ballast,West,East
+30,30.,PS–824,"Border guard
+vessel",Russia,ballast,West,East
+31,31.,Neptune,Towing boat,Russia,ballast,West,East
+32,32.,"Kommynary
+Nikolaeva","Refrigerator
+vessel",Russia,ballast,West,East
+33,33.,Polarcus Alima,"Seismic
+research vessel",Bahamas,ballast,West,East
+34,34.,Polarstern,Icebreaker,Germany,ballast,East,West
+35,35.,Agat,Towing boat,Russia,ballast,East,West
+36,36.,Captain Prykha,"Refrigerator
+vessel",Russia,ballast,West,East
+37,37.,Ventspils,Tanker vessel,Russia,ballast,East,West
+38,38.,Mikhail Kutuzov,Bulker vessel,Russia,ballast,East,West
+39,39.,Ivan Kireev,"Hydrographical
+vessel",Russia,ballast,Archangelsk,Slavyanka
+40,40.,Vengeri,tug/supply ship,Russia,ballast,West,East
+41,41.,Mar Adriana,Tanker vessel,Spain,ballast,Rotterdam,Vladivostok

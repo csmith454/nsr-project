@@ -1,0 +1,86 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18
+0,,№,Vessel name,Flag,Shipowner,Ice class,Type,Cargo,"Qty (mt) /
+passangers","DWT
+(tons)","Max
+draught
+(m)","Port of
+departure","Port of
+destination","I/b
+assistance","WBNSR
+(Kara Gate)","WBNSR
+(Yugorskiy
+Shar)","WBNSR (Cape
+Zhelaniya)","EBNSR
+(Cape Dezhnev)","NSR
+passage
+time
+(days)"
+1,,1,Kapitan Khlebnikov,Russia,"PJSC ""Far Eastern
+Shipping Company""",Icebreaker 7,Icebreaker,Passangers,120,4 418,"8,5",Anadyr,Murmansk,No,,,27.07.16 21:35,16.07.16 2:30,"11,8"
+2,,2,Brage Viking,Russia,"LLC ""Viking Supply""",Arc 5,Tug,n/a,0,4 352,"7,4",Kholmsk,"Aberdeen
+(Scotland)","Vaigach
+(Atomflot)",,,06.08.16 7:00,21.07.16 18:30,"15,5"
+3,,3,Yong Sheng,Hong Kong,Cosco Shipping Ltd,Arc 4,"General cargo
+carrier","Ore in bulk,steel",13 514,19 150,"8,3","Shanghai
+(China)","Glasgow
+(Scotland)","Vaigach
+(Atomflot)",,,06.08.16 13:26,28.07.16 7:00,"9,3"
+4,,4,Spasatel Karev,Russia,"FBI “Marine Rescue
+Service of
+Rosmorrechflot”",Arc 5,Rescue,n/a,0,1 109,,"Saint-
+Petersbourg",Vladivostok,No,,30.07.16 6:30,,20.08.16 9:50,"21,1"
+5,,6,Gretke Oldendorf,Portugal,"Oldendorff Carriers
+GmbH & Co KG",Ice 2,"General cargo
+carrier",Coal,76 175,80 444,"14,3","Vancouver
+(Canada)","Raahe
+(Finland)","Yamal
+(Atomflot)",,,28.08.2016 23:30,03.08.16 6:00,"25,7"
+6,,7,Winter Bay,"St. Kitts &
+Nevis",Darliada Ltd,Ice 1,Refeer,Frozen meat,1 625,2 050,"5,4","Tromse
+(Norway)","Osaka
+(Japan)",No,,,10.08.16 14:28,26.08.16 11:20,"15,9"
+7,,8,Tian Xi,Hong Kong,Cosco Shipping Ltd,Ice 1,"General cargo
+carrier",Paper pulp,30 042,36 000,"10,5","Kotka
+(Finland)",Qingdao (China),"Yamal
+(Atomflot)",,,16.08.16 12:40,29.08.16 14:15,"13,1"
+8,,9,Vidar Viking,Russia,"LLC ""Viking Supply""",Arc 7,Tug,n/a,0,2 600,"6,75",Kholmsk,"Landskrona
+(Sweden)",No,,,30.08.16 0:20,19.08.16 23:00,"10,1"
+9,,10,50 let Pobedy,Russia,"FSUE ""Atomflot""",Icebreaker 9,Icebraker,n/a,0,3 505,"11,0",Murmansk,Anadyr,n/a,20.08.16 4:20,,,26.08.16 13:50,"6,4"
+10,,11,Hanseatic,Bahamas,"Hapag-Lloyd
+Kreuzfahrten GmbH",Arc 5,Passanger,Passangers,126,1 177,"4,9",Murmansk,Provideniya,No,,,24.08.16 4:00,06.09.16 21:30,"13,7"
+11,,12,Georg Oldendorf,Portugal,"Oldendorff Carriers
+GmbH & Co KG",Ice 2,"General cargo
+carrier",Coal,78 347,81 400,"14,5","Vancouver
+(Canada)","Raahe
+(Finland)",No,,,08.09.16 19:00,30.08.16 13:45,"9,2"
+12,,13,Yaroslav Mudriy,Russia,Valkur Ltd,Arc 4,"General cargo
+carrier",Oil products,8 470,10 463,8,Arhangelsk,"Petropavlovsk-
+Kamchatskiy",No,02.09.16 18:00,,,12.09.16 11:41,"9,7"
+13,,14,BBC Lima,Germany,"BBC Charteting
+Carriers GmbH and
+Co.KG",Arc 5,"General cargo
+carrier",General cargo,369,7 819,"5,8","Shanghai
+(China)","Bremerhaven
+(Germany)",No,,,16.09.16 8:33,07.09.16 6:45,"9,1"
+14,,15,Winter Bay,"St. Kitts &
+Nevis",Darliada Ltd,Ice 1,Refeer,Frozen fish,1 874,2 050,"5,8","Petropavlovsk-
+Kamchatskiy","Saint-
+Petersbourg",No,,,11.10.16 11:45,03.10.16 1:25,"8,4"
+15,,16,Inzhener Trubin,Russia,"Northern Shipping
+Company",Arc 5,"General cargo
+carrier",Ballast,0,7 075,"5,8",Arhangelsk,"Quingdao
+(China)","50 let Pobedy
+(Atomflot)",31.10.16 16:50,,,12.11.16 8:55,"11,7"
+16,,17,Normann,Liberia,"LLC ''Femko
+management''",Arc 7,Supply vessel,n/a,0,2 600,"7,6","Bergen
+(Norway)",Kholmsk,,,,02.11.16 12:00,17.11.16 17:45,"15,2"
+17,,18,HHL Valparaiso,Liberia,Hansa Heavy Lift,Arc 4,"General cargo
+carrier","Port crandes; sand in
+big-bags; invertors",4 097,19 413,"8,8","Saint-
+Petersbourg",Vostochniy,"50 let Pobedy
+(Atomflot)",,,03.11.16 20:30,11.11.16 19:06,"7,9"
+18,,19,Pomor,Liberia,"LLC ''Femko
+management''",Arc 7,Supply vessel,n/a,0,2 600,"6,1","Bergen
+(Norway)",Kholmsk,,,,08.11.16 8:10,17.11.16 18:20,"9,4"
+19,,Total,,Cargo,,,,,214 513,Average,,,,,,,,,"14,3"
+20,,,,Passangers,,,,,246,,,,,,,,,,
