@@ -1,0 +1,65 @@
+Vessel name,IMO,Ice class,Flag,Owner / Operator,Vessel type,DWT,GRT,LOA,Dep Country,Dep Port,Dep Date,Arr Country,Arr Port,Arr Date
+Barents,9278600,Arc 4,Russia,Eco Shipping,General cargo,4303,3198,98.9,Russia,Severodvinsk,2020-07-17,Russia,Bolshoy Kamen,2020-08-07
+"S,Kuznetsov",9210359,Arc 4,Russia,Northern Shipping Company,General cargo,7625,6204,107.8,Russia,Belomorsk,2020-07-20,Russia,Petropavlovsk-Kamchatskiy,2020-08-06
+Nordic Svalbard,9437323,Arc 4,Liberia,Nordic Svalbard,General cargo,16543,15549,133,Norway,Jossingfjord,2020-07-21,Russia,Vladivostok,2020-08-12
+Tian En,9774587,Arc 4,China,COSCO,General cargo,37125,26787,190,China,Lianyungang,2020-07-26,Germany,Emden,2020-08-19
+Samson,9114751,Arc 4,Russia,Morskoy Standard-Bunker,Tanker,5870,3726,99.8,Russia,Arkhangelsk,2020-07-27,Russia,Bering Sea,2020-08-07
+Tian You,9823625,Arc 4,China,COSCO,General cargo,37559,26787,200,Denmark,Aalborg,2020-07-28,China,Shanghai,2020-08-23
+UHL Fast,9785392,Arc 4,Portugal,HAMMONIA Reederei,General cargo,13300,16732,150,Russia,Nakhodka,2020-07-31,Netherlands,Rotterdam,2020-08-24
+UHL Partner,9418999,Arc 4,Portugal,United Heavy Lift,General cargo,16523,15549,166.14,Netherlands,Rotterdam,2020-08-01,China,Shanghai,2020-08-29
+Gebe Oldendorff,9727596,Ice 2,Portugal,Oldendorff Carriers,Bulk,80943,44218,229,Canada,Nunavut,2020-08-05,Russia,Vladivostok,2020-09-09
+Golden Suek,9438614,Ice 2,Hong Kong,Suek AG,Bulk,74849,41586,225,Russia,Murmansk,2020-08-06,China,Tianjin,2020-09-10
+Tian Hui,9774599,Arc 4,China,COSCO,General cargo,37130,26787,200,China,Yangzhou,2020-08-06,Denmark,Skagen,2020-09-01
+"S,Kuznetsov",9210359,Arc 4,Russia,Northern Shipping Company,General cargo,7625,6204,107.8,Russia,Petropavlovsk-Kamchatskiy,2020-08-07,Russia,Arkhangelsk,2020-08-24
+UHL Frontier,9789685,Arc 4,Portugal,HAMMONIA Reederei,General cargo,14013,16729,150,China,Taicang,2020-08-08,Netherlands,Rotterdam,2020-09-04
+Golden Pearl,9470375,Ice 2,Marshall Islands,Suek AG,Bulk,74300,41718,225,Russia,Murmansk,2020-08-09,China,Dalian,2020-08-31
+Tian Zhen,9722728,Ice 1,China,COSCO,General cargo,38007,26770,190,Finland,Helsinki,2020-08-11,China,Qingdao,2020-09-10
+Barents,9278600,Arc 4,Russia,Eco Shipping,General cargo,4303,3198,98.9,Russia,Sovetskaya Gavan,2020-08-14,Russia,Arkhangelsk,2020-09-02
+Golden Strength,9413420,Ice 2,Marshall Islands,Suek AG,Bulk,75744,41655,225,Russia,Murmansk,2020-08-14,China,Lanqiao,2020-09-12
+Sevmorput,8729810,Arc 5,Russia,Atomflot,Container,33240,38226,260,Russia,Murmansk,2020-08-19,Russia,Petropavlovsk-Kamchatskiy,2020-09-03
+Rus,9848728,Ice 2,Russia,Antey,Fishing,811,1208,51,Russia,Murmansk,2020-08-22,Russia,Petropavlovsk-Kamchatskiy,2020-09-07
+Georg Oldendorff,9702596,Ice 2,Portugal,Oldendorff Carriers,Bulk,80866,44218,229,Canada,Nunavut,2020-08-22,Russia,Nakhodka,2020-09-21
+Bigroll Beaufort,9766841,Arc 4,Netherlands,RollDock Shipping,Heavy Load,20157,23134,173,Netherlands,Rotterdam,2020-08-27,South Korea,Okpo,2020-09-22
+UHL Flash,9785407,No Ice Class,Portugal,HAMMONIA Reederei,General cargo,14066,16732,150,Denmark,Aalborg,2020-08-28,Taiwan,Taichung,2020-09-21
+Sokrat,9140827,Arc 4,Russia,Morskoy Standard-Bunker,Tanker,5846,3726,100,Russia,Arkhangelsk,2020-08-30,Russia,Anadyr,2020-09-11
+Prisco Bravo,9011519,Arc 4,Russia,Prisco Tankers,Tanker,7975,4931,115,Estonia,Tallinn,2020-08-30,Russia,Nakhodka,2020-09-27
+Da Chang,9608398,Ice 1,Hong Kong,COSCO,General cargo,29902,22566,179.5,China,Tianjin,2020-09-03,Denmark,Esbjerg,2020-10-01
+Da Cui Yun,9451329,Ice 2,Hong Kong,COSCO,General cargo,28341,20949,166.5,Lithuania,Klaipeda,2020-09-03,China,Weifang,2020-10-06
+Tian Jian,9722754,Ice 1,China,COSCO,General cargo,38146,26770,190,Lithuania,Klaipeda,2020-09-04,China,Qingdao,2020-10-02
+Le Boreal,9502506,Ice 2,France,Compagnie du Ponant,Passenger,1400,10944,142,Norway,Svalbard,2020-09-06,Russia,Anadyr,2020-09-17
+Sevmorput,8729810,Arc 5,Russia,Atomflot,Container,33240,38226,260,Russia,Petropavlovsk-Kamchatskiy,2020-09-08,Russia,"St, Petersburg",2020-09-25
+Katun,9701126,No Ice Class,Russia,Femko Management,Tug,2896,2721,72,Japan,Wakkanai,2020-09-08,Russia,Murmansk,2020-09-28
+Ugulan,8804074,Ice 1,Russia,Antey,Fishing,476,642,54.8,Russia,Zarubino,2020-09-09,Norway,Kirkenes,2020-10-12
+Orion-1,8520496,No Ice Class,Russia,Aleut-LVK,Reefer,2690,2604,94,Russia,Vladivostok,2020-09-09,Norway,Kirkenes,2020-10-12
+Da Tai,9608386,Ice 1,Hong Kong,COSCO,General cargo,29881,22566,179.5,China,Taicang,2020-09-11,Denmark,Esbjerg,2020-10-06
+Kaspar Oldendorff,9849825,Ice 2,Portugal,Oldendorff Carriers,Bulk,81400,44029,229,Russia,Murmansk,2020-09-11,China,Caofeidian,2020-10-04
+Moskva,9326574,Icebreaker 6,Russia,Rosmorport,Icebreaker,7243,9491,114,Russia,Arkhangelsk,2020-09-11,Russia,Petropavlovsk-Kamchatskiy,2020-10-05
+Andrey Smirnov,9075890,Ice 3,Russia,Antey,Fishing,329,752,53.7,Russia,Vladivostok,2020-09-12,Norway,Kirkenes,2020-10-12
+Golden Pearl,9470375,Ice 2,Marshall Islands,Suek AG,Bulk,74300,41718,225,China,Dalian,2020-09-12,Russia,Murmansk,2020-10-04
+Golden Suek,9438614,Ice 2,Hong Kong,Suek AG,Bulk,74849,41586,225,China,Tianjin,2020-09-12,Russia,Murmansk,2020-10-06
+Callisto,9040077,Arc 4,Sierra Leone,PKSC,Tanker,10511,6262,123.74,Canada,Montreal,2020-09-17,South Korea,Busan,2020-11-03
+Tian En,9774587,Arc 4,China,COSCO,General cargo,37125,26787,190,Sweden,Gothenburg,2020-09-19,China,Qingdao,2020-10-19
+HAM 318,9229556,No Ice Class,Netherlands,Baggerwerken Decloedt En Zoon,Dredger,67471,33515,227.2,Norway,Kirkenes,2020-09-24,Russia,Vanino,2020-10-12
+Pomor,9764336,Arc 6,Russia,Femko Management,Supply,2870,4866,87,Russia,Murmansk,2020-09-24,Russia,Korsakov,2020-10-18
+Santana,9133408,Ice 2,Russia,Albakor Prim,Fishing,414,749,54.8,Russia,Arkhangelsk,2020-09-24,Russia,Nakhodka,2020-10-22
+Tian You,9823625,Arc 4,China,COSCO,General cargo,37559,26787,200,China,Lianyungang,2020-09-25,Germany,Emden,2020-10-19
+UHL Falcon,9789697,Arc 4,Portugal,HAMMONIA Reederei,General cargo,14103,16729,150,China,Nantong,2020-09-25,Netherlands,Rotterdam,2020-10-23
+Golden Strength,9413420,Ice 2,Marshall Islands,Suek AG,Bulk,75744,41655,225,Russia,Nakhodka,2020-09-26,Russia,Murmansk,2020-10-16
+Nordic Oshima,9687227,Arc 4,Panama,Bulk Nordic Olympic,Bulk,76180,41071,225,Canada,Nunavut,2020-09-27,China,Ningbo,2020-11-05
+Danzigergracht,9420796,Arc 4,Netherlands,BigLift Shipping,General cargo,18143,13558,157,South Korea,Busan,2020-09-29,Sweden,Gavle,2020-10-23
+Nordic Odin,9687239,Arc 4,Panama,Nordic Bulk Carriers,Bulk,76180,41071,225,Canada,Nunavut,2020-09-29,China,Lanshan,2020-11-04
+Vitus Bering,9838840,Arc 5,Bahamas,GTLK ASIA M4,Bulk,105990,66291,250,Canada,Nunavut,2020-09-30,China,Zhanjiang,2020-11-04
+Tian Hui,9774599,Arc 4,China,COSCO,General cargo,37130,26787,200,Denmark,Skagen,2020-10-02,China,Qingdao,2020-10-28
+Sarmat,8027133,Arc 4,Russia,Severnyy Alyans,Tug,290,728,40.2,Russia,Petropavlovsk-Kamchatskiy,2020-10-08,Russia,Varandey,2020-10-27
+Admiral Shmidt,9838838,Arc 5,Bahamas,GTLK Asia M3,Bulk,104553,66291,250,Canada,Nunavut,2020-10-08,China,Ningbo,2020-11-14
+Nordic Olympic,9727118,Arc 4,Panama,Bulk Nordic Olympic,Bulk,76180,41071,225,Canada,Nunavut,2020-10-10,South Korea,Pyeongtaek,2020-11-15
+UHL Focus,9813230,Arc 4,Portugal,Empire Shipping,General cargo,13984,16732,150,Vietnam,Phu My,2020-10-11,Norway,Aagotnes,2020-11-12
+Yaroslav Mudryy,9046576,Arc 4,Russia,Valkur,Tanker,10463,6262,123.7,Russia,Arkhangelsk,2020-10-12,Russia,Telichiki,2020-10-28
+UHL Frontier,9789685,Arc 4,Portugal,HAMMONIA Reederei,General cargo,14013,16729,150,Denmark,Aalborg,2020-10-12,Taiwan,Taichung,2020-11-06
+Olimpiyskiy Prospect,9511387,Ice 3,Liberia,Erdington Navigation,Tanker,113905,62504,250,Russia,Nakhodka,2020-10-19,Russia,Murmansk,2020-11-09
+50 let Pobedy,9152959,Icebreaker 9,Russia,Atomflot,Icebreaker,3505,23439,160,Russia,Arctic Ocean,2020-10-20,Russia,Murmansk,2020-10-29
+Golden Strength,9413420,Ice 2,Marshall Islands,Suek AG,Bulk,75744,41655,225,Russia,Murmansk,2020-10-21,China,Tianjin,2020-11-17
+UHL Partner,9418999,Arc 4,Portugal,United Heavy Lift,General cargo,16523,15549,166.14,Russia,Ust-Luga,2020-10-25,Russia,Vostochnyy,2020-11-23
+Golden Pearl,9470375,Ice 2,Marshall Islands,Suek AG,Bulk,74300,41718,225,Russia,Murmansk,2020-10-27,China,Caofeidian,2020-11-20
+Boris Vilkitskiy (Tanker),9000247,Arc 4,Russia,Khatanga Sea Port,Tanker,6760,5025,108.4,Russia,Beringovskiy,2020-10-30,Russia,Murmansk,2020-11-14
+SCF Sakhalin,9307724,Icebreaker 6,Russia,SCF,Supply,4298,6882,100,Russia,Kholmsk,2020-10-31,Russia,Murmansk,2020-11-20

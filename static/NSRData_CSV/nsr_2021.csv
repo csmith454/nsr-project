@@ -1,0 +1,88 @@
+Vessel name,IMO,Ice class,Flag,Owner / Operator,Vessel type,DWT,GRT,LOA,Dep Country,Dep Port,Dep Date,Arr Country,Arr Port,Arr Date
+Tian En,9774587,Arc 4,China,COSCO,General cargo,37125,26787,190,Finland,Helsinki,2021-06-23,China,Qingdao,2021-08-17
+Admiral Shmidt,9838838,Arc 5,Bahamas,GTLK Asia M3,Bulk,104553,66291,250,Russia,Nakhodka,2021-07-07,Canada,Nunavut,2021-08-11
+Pugnax,9763849,Arc 7,Liberia,Fortune MC Titan Shipping,Heavy Load,28816,34146,206.3,Netherlands,Rotterdam,2021-07-09,China,Yantai,2021-08-14
+Golden Furious,9860128,Ice 2,Marshall Islands,Furious Shipowning,Bulk,81600,44094,229,Russia,Vanino,2021-07-10,Russia,Murmansk,2021-08-06
+Svyatoy Pavel,9035826,Arc 4,Russia,Valkur,Tanker,10926,6441,127.2,Russia,Beringovskiy,2021-07-15,Russia,Arkhangelsk,2021-08-03
+UHL Frontier,9789685,Arc 4,Portugal,HAMMONIA Reederei,General cargo,14013,16729,150,Denmark,Aalborg,2021-07-16,Taiwan,Taichung,2021-08-15
+Tian Hui,9774599,Arc 4,China,COSCO,General cargo,37130,26787,200,China,Shanghai,2021-07-17,Norway,Gismarvik,2021-08-18
+Tian Zhen,9722728,Ice 1,China,COSCO,General cargo,38007,26770,190,Finland,Helsinki,2021-07-17,China,Qingdao,2021-09-08
+Chukotka+,7927960,Arc 4,Russia,Chukotka Trading Company,Tanker,11548,8806,140.8,Russia,Arkhangelsk,2021-07-21,Russia,Lavrentiya,2021-08-15
+Boris Davydov,9768394,Arc 7,Cyprus,Dynagas,LNG Tanker,97000,128806,299,China,Yangkou,2021-07-21,Denmark,Munkebo,2021-08-12
+Kumpula,9590802,Arc 4,Finland,Suek AG,Bulk,56348,33958,197,Russia,Murmansk,2021-07-21,China,Ningbo,2021-08-25
+Golden Pearl,9470375,Ice 2,Marshall Islands,Suek AG,Bulk,74300,41718,225,Hong Kong,Hong Kong,2021-07-23,Russia,Murmansk,2021-08-19
+Tian Qi,9722742,Ice 1,China,COSCO,General cargo,37940,26770,190,Russia,"St, Petersburg",2021-07-25,China,Qingdao,2021-08-30
+Azoresborg,9466051,Arc 4,Netherlands,Wagenborg Shipping,General cargo,17407,11864,143,Russia,Murmansk,2021-07-28,South Korea,Ulsan,2021-08-19
+Golden Suek,9438614,Ice 2,Hong Kong,Suek AG,Bulk,74849,41586,225,Russia,Murmansk,2021-07-30,China,Dalian,2021-08-27
+Pilad,8411255,Arc 4,Russia,Morskoy Standard-Bunker,Tanker,11050,7093,135,Russia,Petropavlovsk-Kamchatskiy,2021-08-01,Russia,Arkhangelsk,2021-08-24
+Thamesborg,9546459,Arc 4,Netherlands,Wagenborg Shipping,General cargo,21359,14695,172.28,Russia,Murmansk,2021-08-02,Japan,Kawasaki,2021-08-25
+Da Yu Xia,9451317,Ice 2,Hong Kong,COSCO,General cargo,28341,20949,166.5,China,Shanghai,2021-08-05,Poland,Swinoujscie,2021-09-11
+Audax,9763837,Arc 7,Liberia,Red Box Energy Services,General cargo,28899,34387,206.3,Denmark,Grenaa,2021-08-06,China,Qingdao,2021-09-22
+Simfoniya,8516627,Arc 4,Russia,Transrefflot,Reefer,3750,4298,103,Russia,Petropavlovsk-Kamchatskiy,2021-08-06,Russia,Arkhangelsk,2021-08-26
+Tian Jian,9722754,Ice 1,China,COSCO,Heavy Load,38146,26770,190,China,Qinhuangdao,2021-08-06,Sweden,Gavle,2021-09-05
+Golden Enterprise,9481477,No Ice Class,Hong Kong,Suek AG,Bulk,79452,43498,229,Russia,Murmansk,2021-08-08,China,Dalian,2021-09-05
+Svyatoy Pavel,9035826,Arc 4,Russia,Valkur,Tanker,10926,6441,127.2,Russia,Arkhangelsk,2021-08-12,Russia,Petropavlovsk-Kamchatskiy,2021-09-06
+Golden Furious,9860128,Ice 2,Marshall Islands,Furious Shipowning,Bulk,81600,44094,229,Russia,Murmansk,2021-08-12,China,Tianjin,2021-09-06
+UHL Fame,9785378,Arc 4,Portugal,Earl Shipping,General cargo,17190,16729,150,Denmark,Aalborg,2021-08-13,Taiwan,Taichung,2021-09-06
+Chukotka+,7927960,Arc 4,Russia,Chukotka Trading Company,Tanker,11548,8806,140.8,Russia,Lavrentiya,2021-08-20,Russia,Arkhangelsk,2021-09-03
+Regina Oldendorff,9535242,No Ice Class,Liberia,Oldendorff Carriers,Bulk,118863,66019,260,Russia,Nakhodka,2021-08-21,Russia,Murmansk,2021-09-14
+Pavel Leonov,9872432,Arc 4,Russia,SASCO,Passenger,1829,3061,75,Russia,Murmansk,2021-08-25,Russia,Korsakov,2021-09-15
+Tian You,9823625,Arc 4,China,COSCO,General cargo,37559,26787,200,Finland,Kotka,2021-08-25,China,Qingdao,2021-10-01
+Rik Oldendorff,9463657,No Ice Class,Liberia,Oldendorff Carriers,Bulk,118467,65976,260.37,South Korea,Yosu,2021-08-26,Russia,Murmansk,2021-09-19
+GPO Grace,9760421,Ice 2,Marshall Islands,Wilhelmsen Management (Norway) AS,Heavy Load,63581,49091,225,China,Ningbo,2021-08-26,Russia,Murmansk,2021-09-16
+Kumpula,9590802,Arc 4,Finland,Suek AG,Bulk,56348,33958,197,China,Ningbo,2021-08-28,Russia,Murmansk,2021-09-17
+GPO Amethyst,9760433,Ice 2,Marshall Islands,Wilhelmsen Management (Norway) AS,Heavy Load,63581,49091,225,Norway,Kirkenes,2021-08-29,China,Penglai,2021-10-03
+Golden Pearl,9470375,Ice 2,Marshall Islands,Suek AG,Bulk,74300,41718,225,Russia,Murmansk,2021-08-29,China,Lanshan,2021-09-23
+Da De,9608403,Ice 1,China,COSCO,General cargo,29572,21828,179.57,Germany,Hamburg,2021-08-30,Japan,Kushiro,2021-09-23
+Simfoniya,8516627,Arc 4,Russia,Transrefflot,Reefer,3750,4298,103,Russia,Arkhangelsk,2021-08-31,Russia,Beringovskiy,2021-09-12
+Conrad Oldendorff,9537903,No Ice Class,Liberia,Oldendorff Carriers,Bulk,93039,51239,229.2,Canada,Nunavut,2021-09-01,China,Ningbo,2021-10-05
+UHL Future,9808845,Arc 4,Portugal,HAMMONIA Reederei,General cargo,14058,16729,150,China,Taicang,2021-09-02,Germany,Hamburg,2021-09-28
+UHL Faith,9892482,Arc 4,Portugal,Fortune Aquila Shipping,General cargo,17116,16732,149.95,Norway,Grimstad,2021-09-03,South Korea,Geoje,2021-09-25
+Da Ji,9768538,Ice 1,China,COSCO,General cargo,28612,21992,179.67,China,Taicang,2021-09-03,Norway,Porsgrunn,2021-10-01
+Dolfijngracht,9420825,Arc 4,Netherlands,BigLift Shipping,General cargo,17967,13706,156.89,South Korea,Busan,2021-09-05,Sweden,Umea,2021-10-03
+Tian Lu,9704740,Ice 1,Hong Kong,COSCO,General cargo,26600,38122,190,Finland,Jakobstad,2021-09-06,China,Qingdao,2021-10-09
+Roland Oldendorff,9463633,No Ice Class,Liberia,Oldendorff Carriers,Bulk,121332,65976,260.37,Russia,Ust-Luga,2021-09-06,South Korea,Pohang,2021-10-17
+Richard Oldendorff,9462366,No Ice Class,Liberia,Oldendorff Carriers,Bulk,121332,65976,260.41,Russia,Murmansk,2021-09-07,China,Huanghua,2021-10-02
+Golden Furious,9860128,Ice 2,Marshall Islands,Furious Shipowning,Bulk,81600,44094,229,China,Tianjin,2021-09-07,Russia,Murmansk,2021-10-05
+UHL Fusion,9785380,Arc 4,Portugal,Elmar Shipping,General cargo,17147,16732,150,China,Taicang,2021-09-08,Sweden,Umea,2021-10-07
+Chukotka+,7927960,Arc 4,Russia,Chukotka Trading Company,Tanker,11548,8806,140.8,Russia,Arkhangelsk,2021-09-09,Russia,Egvekinot,2021-10-14
+Tian Hui,9774599,Arc 4,China,COSCO,General cargo,37130,26787,200,Finland,Kotka,2021-09-09,China,Qingdao,2021-10-18
+Gertrude Oldendorff,9727601,Ice 2,Portugal,Oldendorff Carriers,Bulk,80959,44218,229,Canada,Vancouver,2021-09-10,Finland,Raahe,2021-10-12
+Tian Shou,9704752,Ice 1,China,COSCO,General cargo,38134,26600,190,China,Dafeng,2021-09-11,Poland,Gdynia,2021-10-12
+Taagborg,9546461,Arc 4,Netherlands,Wagenborg Shipping,General cargo,21338,14695,173,China,Lianyungang,2021-09-11,Canada,La Baie,2021-10-24
+Da Tong Yun,9451343,Ice 2,Hong Kong,COSCO,General cargo,28377,20454,166.5,China,Shanghai,2021-09-11,Poland,Swinoujscie,2021-10-15
+Blue Marlin,9186338,No Ice Class,Malta,Blue Marlin,Heavy Load,76292,51821,224.6,China,Ningbo,2021-09-11,Russia,Murmansk,2021-10-11
+Americaborg,9365659,Arc 4,Netherlands,Wagenborg Shipping,General cargo,17356,11864,143,Canada,Matane,2021-09-14,South Korea,Ulsan,2021-10-18
+Da Zhi,9608439,Ice 1,China,COSCO,General cargo,29496,21828,179.57,China,Qinhuangdao,2021-09-16,Sweden,Uddevalla,2021-10-15
+UHL Frontier,9789685,Arc 4,Portugal,HAMMONIA Reederei,General cargo,14013,16729,150,China,Taicang,2021-09-17,Sweden,Umea,2021-10-18
+Petr Gusenkov,9060819,Ice 2,Russia,Germes-Marine,Reefer,485,532,45.45,Russia,Murmansk,2021-09-18,Russia,Vladivostok,2021-10-29
+UHL Falcon,9789697,Arc 4,Portugal,Essence Shipping,General cargo,14103,16729,150,Spain,Huelva,2021-09-18,China,Qingdao,2021-10-19
+Golden Suek,9438614,Ice 2,Hong Kong,Suek AG,Bulk,74849,41586,225,China,Dalian,2021-09-18,Russia,Murmansk,2021-10-10
+UHL Fierce,9892509,Arc 4,Portugal,Fortune Ephesians Shipping,General cargo,14040,16732,150,Denmark,Aalborg,2021-09-21,Taiwan,Taichung,2021-10-19
+Sparta 3,9538892,Arc 4,Russia,Yug Shipping Company,General cargo,9490,12679,142.5,Russia,Murmansk,2021-09-21,Hong Kong,Hong Kong,2021-10-20
+Azoresborg,9466051,Arc 4,Netherlands,Wagenborg Shipping,General cargo,17407,11864,143,China,Lianyungang,2021-09-22,Canada,Baie-Comeau,2021-10-26
+Regina Oldendorff,9535242,No Ice Class,Liberia,Oldendorff Carriers,Bulk,118863,66019,260,Russia,Murmansk,2021-09-23,China,Dalian,2021-10-27
+Aragonborg,9466312,Arc 4,Netherlands,Wagenborg Shipping,General cargo,17294,11885,143,China,Nantong,2021-09-23,Netherlands,Rotterdam,2021-10-23
+Rik Oldendorff,9463657,No Ice Class,Liberia,Oldendorff Carriers,Bulk,118467,65976,260.37,Russia,Murmansk,2021-09-26,China,Rizhao,2021-10-23
+Golden Pearl,9470375,Ice 2,Marshall Islands,Suek AG,Bulk,74300,41718,225,China,Lanshan,2021-09-26,Russia,Murmansk,2021-10-19
+GPO Grace,9760421,Ice 2,Marshall Islands,Wilhelmsen Management (Norway) AS,Heavy Load,63581,49091,225,Russia,Murmansk,2021-09-27,South Korea,Busan,2021-10-26
+Nikolay Evgenov,9750725,Arc 7,Bahamas,TC LNG Explorer,LNG Tanker,97000,128806,299,Japan,Sakai,2021-09-27,France,Brest,2021-10-17
+Kumpula,9590802,Arc 4,Finland,Suek AG,Bulk,56348,33958,197,Russia,Murmansk,2021-09-28,China,Rizhao,2021-10-22
+Parkgracht,9424546,Arc 4,Netherlands,BigLift Shipping,General cargo,20170,17628,168.65,China,Nantong,2021-09-30,Poland,Swinoujscie,2021-11-18
+Tasmanic Winter,9467158,Arc 4,Liberia,Tasmanic Winter Shipping Company,Heavy Load,19324,15549,166,China,Ningbo,2021-10-04,UK,Liverpool,2021-11-01
+Hilke,9501875,Arc 4,Antigua and Barbuda,Harren & Partner,General cargo,10052,11473,133.94,UK,Montrose,2021-10-06,Russia,Korsakov,2021-10-28
+UHL Flash,9785407,No Ice Class,Portugal,HAMMONIA Reederei,General cargo,14066,16732,150,China,Taicang,2021-10-08,Netherlands,Rotterdam,2021-11-18
+UHL Faith,9892482,Arc 4,Portugal,Fortune Aquila Shipping,General cargo,17116,16732,149.95,China,Taicang,2021-10-10,Germany,Hamburg,2021-11-18
+Nordic Nuluujaak,9884966,Arc 4,Marshall Islands,Fortune Sealion I,Bulk,95758,54066,229.5,Canada,Nunavut,2021-10-10,China,Ningbo,2021-12-15
+Alexander Nevskiy,9356610,Arc 4,Russia,Valkur,Tanker,17069,12162,144,Russia,Arkhangelsk,2021-10-10,Russia,Ossora,2021-10-27
+Golden Furious,9860128,Ice 2,Marshall Islands,Furious Shipowning,Bulk,81600,44094,229,Russia,Murmansk,2021-10-11,China,Lanshan,2021-11-04
+UHL Future,9808845,Arc 4,Portugal,HAMMONIA Reederei,General cargo,14058,16729,150,Denmark,Aalborg,2021-10-11,Taiwan,Taichung,2021-11-05
+Nordic Qinngua,9884978,Arc 4,Marshall Islands,Fortune Sealion II,Bulk,95758,54066,229.5,Canada,Nunavut,2021-10-12,China,Huanghua,2021-12-09
+Admiral Shmidt,9838838,Arc 5,Bahamas,GTLK Asia M3,Bulk,104553,66291,250,Canada,Nunavut,2021-10-14,China,Ningbo,2021-11-27
+Klara,9467160,Arc 4,Portugal,SAL Shipping,General cargo,19359,15549,166.15,Denmark,Esbjerg,2021-10-16,Taiwan,Taichung,2021-11-10
+Golden Suek,9438614,Ice 2,Hong Kong,Suek AG,Bulk,74849,41586,225,Russia,Murmansk,2021-10-18,China,Tianjin,2021-12-04
+UHL Fusion,9785380,Arc 4,Portugal,Elmar Shipping,General cargo,17147,16732,150,Denmark,Esbjerg,2021-10-25,Russia,Bolshoy Kamen,2021-11-29
+Golden Pearl,9470375,Ice 2,Marshall Islands,Suek AG,Bulk,74300,41718,225,Russia,Murmansk,2021-10-26,China,Rizhao,2021-12-02
+Kumpula,9590802,Arc 4,Finland,Suek AG,Bulk,56348,33958,197,China,Rizhao,2021-10-26,Norway,Narvik,2021-12-11
+Sevmorput,8729810,Arc 5,Russia,Atomflot,Container,33240,38226,260,Russia,"St, Petersburg",2021-11-02,Russia,Nakhodka,2021-11-24
+Pugnax,9763849,Arc 7,Liberia,Fortune MC Titan Shipping,Heavy Load,28816,34146,206.3,China,Nantong,2021-11-06,Russia,Murmansk,2022-01-10

@@ -1,0 +1,37 @@
+Vessel name,IMO,Ice class,Flag,Owner / Operator,Vessel type,DWT,GRT,LOA,Dep Country,Dep Port,Dep Date,Arr Country,Arr Port,Arr Date
+Tian En,9774587,Arc 4,China,COSCO,General cargo,37125,26787,190,China,Changshu,2019-07-19,Sweden,Gavle,2019-08-17
+Svyatoy Petr,9035838,Arc 4,Russia,Valkur,Tanker,10960,6441,127.2,Russia,Petropavlovsk-Kamchatskiy,2019-07-23,Russia,Arkhangelsk,2019-08-10
+Professor Multanovskiy,8010362,Arc 5,Russia,FERHRI,Research,620,1753,72,Russia,Vladivostok,2019-07-26,Russia,Murmansk,2019-09-07
+Da Tai,9608386,Ice 1,Hong Kong,COSCO,General cargo,29881,22566,179.5,China,Taicang,2019-07-31,Denmark,Skagen,2019-08-24
+Simfoniya,8516627,Arc 4,Russia,Transrefflot,Reefer,3750,4298,103,Russia,Ossora,2019-08-06,Russia,Arkhangelsk,2019-08-19
+Garmoniya,8516639,Arc 4,Russia,Yuzhmorrybflot,Reefer,3642,4295,103,Russia,Ossora,2019-08-08,Russia,Arkhangelsk,2019-08-21
+Nordic Svalbard,9437323,Arc 4,Liberia,Nordic Svalbard,General cargo,16543,15549,133,South Korea,Busan,2019-08-09,Germany,Cuxhaven,2019-09-01
+Atlanticborg,9466350,Arc 4,Netherlands,Atlanticborg Shipping Company,General cargo,17294,11885,143,Netherlands,Vlissingen,2019-08-19,Japan,Kinuura,2019-09-13
+Sparta 3,9538892,Arc 4,Russia,OBL-Shipping,General cargo,9490,12679,142.5,South Korea,Busan,2019-08-20,Russia,Murmansk,2019-09-09
+Tian Xi,9704764,Ice 1,Liberia,COSCO,General cargo,28098,26600,190,Denmark,Skagen,2019-08-22,China,Qingdao,2019-09-16
+Simfoniya,8516627,Arc 4,Russia,Transrefflot,Reefer,3750,4298,103,Russia,Arkhangelsk,2019-08-23,Russia,Ossora,2019-09-14
+Korolev Prospect,9826902,Ice 3,Liberia,Kismet Ventures,Tanker,113232,64909,250,Russia,Murmansk,2019-08-23,China,Qingdao,2019-09-14
+Tian You,9823625,Arc 4,China,COSCO,General cargo,37559,26787,200,China,Shanghai,2019-08-26,Germany,Hamburg,2019-09-20
+Garmoniya,8516639,Arc 4,Russia,Yuzhmorrybflot,Reefer,3642,4295,103,Russia,Arkhangelsk,2019-08-28,Russia,Livadiya,2019-09-30
+Sevmorput,8729810,Arc 5,Russia,Atomflot,Container,33240,38226,260,Russia,Petropavlovsk-Kamchatskiy,2019-08-29,Russia,"St, Petersburg",2019-09-15
+Tian Hui,9774599,Arc 4,China,COSCO,General cargo,37130,26787,200,China,Jiangyin,2019-08-30,Sweden,Gothenburg,2019-09-23
+Alsey,8602866,No Ice Class,Russia,Antey,Fishing,991,2158,65.6,Russia,Arkhangelsk,2019-08-31,Russia,Petropavlovsk-Kamchatskiy,2019-09-17
+Da Xiang,9768552,Ice 1,China,COSCO,General cargo,28577,21992,179.6,Germany,Hamburg,2019-09-01,China,Dalian,2019-09-27
+Astoria,9166314,Arc 4,Russia,Triniti Shipping,Tanker,12712,8886,137.5,Russia,Murmansk,2019-09-02,Russia,Vladivostok,2019-09-24
+Baltic Winter,9467134,Arc 4,Portugal,KG Shipping Company,General cargo,19404,15549,166.2,South Korea,Busan,2019-09-05,Germany,Cuxhaven,2019-09-29
+Tian Qi,9722742,Ice 1,China,COSCO,General cargo,37940,26770,190,Russia,"St, Petersburg",2019-09-05,Vietnam,Phu My,2019-10-09
+Andrey Pervozvannyy,9255268,Arc 5,Russia,Valkur,Tanker,25000,16040,169,Russia,Arkhangelsk,2019-09-07,Russia,Ust-Kamchatsk,2019-09-26
+Professor Multanovskiy,8010362,Arc 5,Russia,FERHRI,Research,620,1753,72,Russia,Murmansk,2019-09-11,Russia,Vladivostok,2019-10-22
+Gebe Oldendorff,9727596,Ice 2,Portugal,Oldendorff Carriers,Bulk,80943,44218,229,Russia,Murmansk,2019-09-16,China,Ningbo,2019-10-24
+Korolev Prospect,9826902,Ice 3,Liberia,Kismet Ventures,Tanker,113232,64909,250,China,Qingdao,2019-09-16,Russia,Murmansk,2019-10-08
+Da Tai,9608386,Ice 1,Hong Kong,COSCO,General cargo,29881,22566,179.5,Russia,Ust-Luga,2019-09-17,China,Rizhao,2019-10-20
+Tian En,9774587,Arc 4,China,COSCO,General cargo,37125,26787,190,Denmark,Skagen,2019-09-17,Japan,Tomakomai,2019-10-09
+Tamango,6928553,Ice 2,Russia,Antey,Fishing,257,680,54.2,Russia,Petropavlovsk-Kamchatskiy,2019-09-19,Russia,Murmansk,2019-10-10
+Rashkov,8722123,Ice 3,Russia,Antey,Fishing,315,868,53.7,Russia,Petropavlovsk-Kamchatskiy,2019-09-19,Russia,Murmansk,2019-10-10
+Lomonosov Prospect,9826732,Ice 3,Liberia,Purposeful Corporation,Tanker,113170,64909,250,Russia,Primorsk,2019-09-28,China,Laizhou,2019-10-29
+Crown Sapphire,9159115,Ice 1,Bahamas,Zetland Advisor,Reefer,10316,10519,152,Russia,Petropavlovsk-Kamchatskiy,2019-10-01,Russia,"St, Petersburg",2019-10-17
+Mendeleev Prospect,9826897,Ice 3,Liberia,Serafina Enterprises,Tanker,113159,64909,250,Russia,Primorsk,2019-10-02,China,Tianjin,2019-11-08
+Svyatoy Petr,9035838,Arc 4,Russia,Valkur,Tanker,10960,6441,127.2,Russia,Arkhangelsk,2019-10-07,Russia,Beringovskiy,2019-10-21
+Nordic Oshima,9687227,Arc 4,Panama,Bulk Nordic Olympic,Bulk,76180,41071,225,Canada,Nunavut,2019-10-08,China,Bayuquan,2019-11-20
+Nordic Svalbard,9437323,Arc 4,Liberia,Nordic Svalbard,General cargo,16543,15549,133,UK,Rosyth,2019-10-10,Russia,Vostochnyy,2019-10-30
+Vitus Bering,9838840,Arc 5,Bahamas,GTLK ASIA M4,Bulk,105990,66291,250,Russia,Nakhodka,2019-11-01,Russia,Murmansk,2019-11-24

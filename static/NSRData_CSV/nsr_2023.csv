@@ -1,0 +1,80 @@
+Vessel name,IMO,Ice class,Flag,Owner / Operator,Vessel type,DWT,GRT,LOA,Dep Country,Dep Port,Dep Date,Arr Country,Arr Port,Arr Date,Cargo Approx tn,Cargo type
+Pugnax,9763849,Arc 7,Liberia,Fortune MC Titan Shipping,Heavy Load,28816,34146,206,South Korea,Busan,2023-06-03,Russia,Murmansk,2023-07-03,11748.8,general cargo
+Sevmorput,8729810,Arc 5,Russia,Atomflot,Container,33240,38226,260,Russia,"St, Petersburg",2023-06-24,Russia,Vostochnyy,2023-07-21,4764.74,containers
+Chukotka+,7927960,Arc 4,Russia,Chukotka Trading Company,Tanker,11548,8806,141,Russia,Egvekinot,2023-07-04,Russia,Arkhangelsk,2023-07-26,0,ballast
+SCF Baltica,9305568,Arc 5,Liberia,Ashbourne Navigation,Tanker,117153,65293,250,Russia,Vostochnyy,2023-07-07,Russia,Murmansk,2023-07-29,0,ballast
+Pugnax,9763849,Arc 7,Liberia,Fortune MC Titan Shipping,Heavy Load,28816,34146,206,Russia,Murmansk,2023-07-07,China,Qidong,2023-08-07,0,ballast
+Olafsson,7704708,Ice 1,Russia,OOO Antey,Fishing,1552,1592,71,Russia,Zarubino,2023-07-19,Russia,Barents Sea,2023-08-12,0,ballast
+Bering (2),9104029,Ice 1,Russia,Antey,Fishing,3912,3440,82,Russia,Nakhodka,2023-07-19,Russia,Barents Sea,2023-08-12,0,ballast
+Sevmorput,8729810,Arc 5,Russia,Atomflot,Container,33240,38226,260,Russia,Petropavlovsk-Kamchatskiy,2023-07-30,Russia,Murmansk,2023-08-13,6288.6,containers
+Atlantic,9104017,Ice 1,Russia,OOO Antey,Fishing,3750,3431,82,Russia,Vladivostok,2023-07-13,Russia,Barents Sea,2023-08-13,0,ballast
+Jupiter,7712937,Ice 1,Russia,Antey,Fishing,1251,1201,68,Russia,Zarubino,2023-07-20,Russia,Barents Sea,2023-08-13,0,ballast
+Arktika-2,9243801,Arc 5,Russia,Reskom Tyumen,General cargo,9150,6585,134,Russia,Arkhangelsk,2023-07-17,Russia,Elga,2023-08-13,2000,general cargo
+Newnew Polar Bear,9313204,Arc 5,Hong Kong,HAINANXIN XIN YANG,Container,15952,16324,169,Russia,"St, Petersburg",2023-07-07,China,Shanghai,2023-08-14,0,ballast
+Audax,9763837,Arc 7,Curacao,"Fortune MC Hercules Shipping Ltd,",General cargo,28899,34387,206,South Korea,Busan,2023-07-24,Russia,Murmansk,2023-08-17,17285,general cargo
+Kapitan Aleksandrov,9937139,Ice 2,Russia,Pacific Crab,Fishing,950,1572,58,Russia,"St, Petersburg",2023-07-12,South Korea,Busan,2023-08-22,0,ballast
+Mekhanik Pyatlin,8904434,Ice 1,Russia,OAO Northern Sea Shipping Company,General cargo,2650,2489,85,Russia,Murmansk,2023-07-26,Russia,Vostochnyy,2023-08-25,0,ballast
+Alsey,8602866,No Ice Class,Russia,Antey,Fishing,991,2158,66,Russia,Zarubino,2023-07-25,Russia,Barents Sea,2023-08-25,0,ballast
+Aram Khachaturian,9163752,Arc 4,Russia,Kamchatskya Neftebaza,Tanker,14559,8848,120,Russia,Provideniya,2023-08-08,Russia,Arkhangelsk,2023-08-25,0,ballast
+Arctic,9122978,No Ice Class,Russia,OOO Antey,Fishing,3605,3630,84,Russia,Vladivostok,2023-07-12,Russia,Barents Sea,2023-08-28,0,ballast
+Primorsky Prospect,9511533,Ice 3,Liberia,Shardlow Maritime,Tanker,113860,52504,250,Russia,Ust-Luga,2023-07-12,China,Dalian,2023-08-29,100000,crude oil
+NS Arctic,9413547,Ice 3,Liberia,Ns Arctic Shipping,Tanker,111107,62433,250,Russia,Primorsk,2023-07-14,China,Rizhao,2023-08-29,99984.1,crude oil
+Mekhanik Kraskovskiy,8904458,Arc 4,Russia,Northern Shipping Company,General cargo,2650,2489,85,Russia,Murmansk,2023-08-02,Russia,Vostochnyy,2023-08-30,0,ballast
+SCF Baltica,9305568,Arc 5,Liberia,Ashbourne Navigation,Tanker,117153,65293,250,Russia,Murmansk,2023-07-30,China,Tianjin,2023-08-30,110000,crude oil
+Simfoniya,8516627,Arc 4,Russia,Transrefflot,Reefer,3750,4298,103,Russia,Bolshoy Kamen,2023-08-01,Russia,Arkhangelsk,2023-09-02,3076.74,fish
+Crown Garnet,9128049,Ice 2,Bahamas,Gamas Shipholding,Reefer,10332,10519,152,Russia,"St, Petersburg",2023-08-18,Russia,Petropavlovsk-Kamchatskiy,2023-09-05,0,ballast
+Korolev Prospect,9826902,Ice 3,Liberia,Kismet Ventures,Tanker,113232,64909,250,Russia,Murmansk,2023-08-08,China,Zhoushan,2023-09-07,99844,crude oil
+Mekhanik Sizov,9896153,Ice 3,Russia,RRPK Vostok,Fishing,5900,9055,108,Russia,"St, Petersburg",2023-08-15,Russia,Vladivostok,2023-09-08,0,ballast
+SCF Irtysh,9397535,Arc 4,Liberia,Skyler,Tanker,49900,29967,183,Russia,Ust-Luga,2023-08-05,China,Zhoushan,2023-09-09,36000,crude oil
+Xin Xin Tian 1,9320025,Ice 1,Hong Kong,New New International Shipping,Container,37786,27971,222,China,Tianjin,2023-08-04,Russia,"St, Petersburg",2023-09-10,13933,containers
+Fan Zhou 10,9595345,Ice 1,China,Jiangsu Fanzhou,Heavy Load,62074,48292,240,China,Zhoushan,2023-08-18,Russia,Murmansk,2023-09-12,20804.1,general cargo
+Hammurabi,9297357,Arc 4,Panama,EREN SHIPPING,Tanker,113553,63462,251,Russia,Primorsk,2023-08-08,China,Dalian,2023-09-12,99978.7,crude oil
+Velikiy Novgorod,9630004,Ice 2,Liberia,Boreray Shipping,LNG Tanker,93486,113876,300,Russia,Portovaya,2023-08-14,China,Caofeidian,2023-09-14,71500,LNG
+Xin Xin Hai 1,9623609,Ice 2,China,Yangpu Newnew Shipping,General cargo,29011,21270,166,South Korea,Busan,2023-08-06,Russia,"St, Petersburg",2023-09-14,4492,containers
+Gingo,9182710,No Ice Class,Liberia,Light Maritime,Bulk,169159,86192,289,Russia,Murmansk,2023-08-17,China,Rizhao,2023-09-16,164500,iron ore concentrate
+Audax,9763837,Arc 7,Curacao,"Fortune MC Hercules Shipping Ltd,",General cargo,28899,34387,206,Russia,Murmansk,2023-08-22,South Korea,Busan,2023-09-17,0,ballast
+Simfoniya,8516627,Arc 4,Russia,Transrefflot,Reefer,3750,4298,103,Russia,Arkhangelsk,2023-09-08,Russia,Bering Sea,2023-09-18,0,ballast
+Olimpiyskiy Prospect,9511387,Ice 3,Liberia,Erdington Navigation,Tanker,113905,62504,250,Russia,Primorsk,2023-08-15,China,Tianjin,2023-09-19,99846.6,crude oil
+Pugnax,9763849,Arc 7,Liberia,Fortune MC Titan Shipping,Heavy Load,28816,34146,206,South Korea,Busan,2023-08-26,Russia,Murmansk,2023-09-19,8048.23,general cargo
+Olafsson,7704708,Ice 1,Russia,OOO Antey,Fishing,1552,1592,71,Russia,Barents Sea,2023-09-02,Russia,Zarubino,2023-09-21,149.43,fish
+Arctic,9122978,No Ice Class,Russia,OOO Antey,Fishing,3605,3630,84,Russia,Barents Sea,2023-08-29,Russia,Zarubino,2023-09-21,177.734,fish
+Tang Land,9233595,No Ice Class,Panama,Tangland Maritime,Bulk,75928,39126,225,South Korea,Boryeong,2023-08-27,Russia,Murmansk,2023-09-22,0,ballast
+Moskovsky Prospect,9511521,Ice 3,Liberia,Sumerton Shipholding,Tanker,113867,62504,250,Russia,Murmansk,2023-09-01,China,Shenzhen,2023-09-27,100000,crude oil
+NS Bravo,9412359,No Ice Class,Liberia,NS Bravo Shipping,Tanker,156694,83747,274,Russia,Murmansk,2023-09-04,China,Rizhao,2023-09-28,140304,crude oil
+King Lan,9216406,No Ice Class,Panama,Kinglan Marine,Bulk,73931,39893,225,China,Zhuhai,2023-08-28,Russia,Murmansk,2023-09-30,0,ballast
+Hong Run,9180803,No Ice Class,Panama,Hongrun (HongKong) Shipping,Bulk,73705,38364,225,China,Yuhuan,2023-08-21,Russia,Murmansk,2023-09-30,0,ballast
+Alsey,8602866,No Ice Class,Russia,Antey,Fishing,991,2158,66,Russia,Barents Sea,2023-09-08,Russia,Zarubino,2023-10-02,105.653,fish
+Vernadsky Prospect,9843560,Ice 3,Liberia,Irma Corporation,Tanker,113310,64909,250,Russia,Primorsk,2023-09-03,China,Rizhao,2023-10-03,99999,crude oil
+Jupiter,7712937,Ice 1,Russia,Antey,Fishing,1251,1201,68,Russia,Barents Sea,2023-09-10,Russia,Zarubino,2023-10-03,95.315,fish
+SCF Baltica,9305568,Arc 5,Liberia,Ashbourne Navigation,Tanker,117153,65293,250,China,Tianjin,2023-09-01,Russia,Murmansk,2023-10-03,0,ballast
+NS Arctic,9413547,Ice 3,Liberia,Ns Arctic Shipping,Tanker,111107,62433,250,China,Rizhao,2023-08-31,Russia,Primorsk,2023-10-04,0,ballast
+Atlantic,9104017,Ice 1,Russia,OOO Antey,Fishing,3750,3431,82,Russia,Barents Sea,2023-09-16,Russia,Zarubino,2023-10-05,220.222,fish
+Newnew Polar Bear,9313204,Arc 5,Hong Kong,HAINANXIN XIN YANG,Container,15952,16324,169,Russia,Petropavlovsk-Kamchatskiy,2023-09-14,Russia,Kaliningrad,2023-10-06,7527.9,containers
+Leonid Loza,9412347,No Ice Class,Liberia,NS Breeze,Tanker,156630,83747,274,Russia,Murmansk,2023-09-11,China,Ningbo,2023-10-06,140000,crude oil
+Neptun,9393412,Ice 1,Russia,Gazprom Flot,Supply,2828,2807,74,Russia,Murmansk,2023-09-05,Russia,Nakhodka,2023-10-06,0,ballast
+Ruslana,9352339,Arc 4,Russia,Transflot,General cargo,7750,5057,120,China,Shanghai,2023-09-05,Russia,Murmansk,2023-10-07,2445.22,general cargo
+Nan Feng Zhi Xing,9934498,Ice 1,Panama,Guangdong Nanfeng,Heavy Load,25119,18116,160,Russia,Murmansk,2023-08-01,China,Zhoushan,2023-10-10,10494,general cargo
+Primorsky Prospect,9511533,Ice 3,Liberia,Shardlow Maritime,Tanker,113860,52504,250,Russia,Nakhodka,2023-09-07,Russia,Ust-Luga,2023-10-10,0,ballast
+Crown Garnet,9128049,Ice 2,Bahamas,Gamas Shipholding,Reefer,10332,10519,152,Russia,Petropavlovsk-Kamchatskiy,2023-09-25,Russia,"St, Petersburg",2023-10-12,7723.55,fish
+Ossoy,9701102,No Ice Class,Liberia,Crown Libra 3 Limited,Supply,2881,2721,72,Russia,Murmansk,2023-09-22,Russia,Korsakov,2023-10-13,0,ballast
+Bering (2),9104029,Ice 1,Russia,Antey,Fishing,3912,3440,82,Russia,Barents Sea,2023-09-21,Russia,Zarubino,2023-10-13,222.222,fish
+Kazanin Explorer,9272436,Ice 1,Russia,Sevnor Management,Supply,3120,3905,88,Russia,Murmansk,2023-08-31,Russia,Nakhodka,2023-10-15,0,ballast
+Pugnax,9763849,Arc 7,Liberia,Fortune MC Titan Shipping,Heavy Load,28816,34146,206,Russia,Murmansk,2023-09-22,South Korea,Busan,2023-10-16,0,ballast
+Arktika-1,9228980,Arc 5,Russia,Reskom Tyumen,Container,9150,6585,135,Russia,Arkhangelsk,2023-10-01,Russia,Petropavlovsk-Kamchatskiy,2023-10-17,6687.03,general cargo
+Danila Bagrov,9458420,Ice 2,Liberia,SPV4,General cargo,28309,20682,166,China,Shanghai,2023-09-22,Russia,Murmansk,2023-10-17,0,ballast
+Velikiy Novgorod,9630004,Ice 2,Liberia,Boreray Shipping,LNG Tanker,93486,113876,300,China,Caofeidian,2023-09-15,Russia,Portovaya,2023-10-17,0,ballast
+Hammurabi,9297357,Arc 4,Panama,EREN SHIPPING,Tanker,113553,63462,251,China,Dalian,2023-09-14,Russia,Ust-Luga,2023-10-18,0,ballast
+Xin Xin Shan,9348986,Ice 1,China,Hainan LDK International Multimodal Transport,Container,23730,18017,182,China,Tianjin,2023-09-10,Russia,Kaliningrad,2023-10-21,8873.78,containers
+SCF Samotlor,9421972,No Ice Class,Liberia,Chamber Marine,Tanker,158070,84029,274,Russia,Murmansk,2023-09-28,China,Rizhao,2023-10-22,140000,crude oil
+Olimpiyskiy Prospect,9511387,Ice 3,Liberia,Erdington Navigation,Tanker,113905,62504,250,Russia,Vostochnyy,2023-09-26,Russia,Primorsk,2023-10-22,0,ballast
+Fan Zhou 10,9595345,Ice 1,China,Jiangsu Fanzhou,Heavy Load,62074,48292,240,Russia,Murmansk,2023-10-01,China,Zhoushan,2023-10-23,0,ballast
+MV Platos,9273375,No Ice Class,Panama,Marine Breeze Shipping,Bulk,171320,87720,289,Russia,Murmansk,2023-09-29,China,Dalian,2023-10-27,160000,iron ore concentrate
+Polar Lady,9438614,Ice 2,Barbados,Growpa Corp,Bulk,74815,41586,225,Russia,Ust-Luga,2023-09-21,China,Caofeidian,2023-10-27,72320,coal
+SCF Baltica,9305568,Arc 5,Liberia,Ashbourne Navigation,Tanker,117153,65293,250,Russia,Murmansk,2023-10-05,China,Ningbo,2023-10-29,100000,crude oil
+Xin Xin Hai 1,9623609,Ice 2,China,Yangpu Newnew Shipping,General cargo,29011,21270,166,Russia,Arkhangelsk,2023-10-04,Russia,Vanino,2023-11-01,14548.7,containers
+Sevmorput,8729810,Arc 5,Russia,Atomflot,Container,33240,38226,260,Russia,"St, Petersburg",2023-10-12,Russia,Vostochnyy,2023-11-03,2613.75,containers
+Gingo,9182710,No Ice Class,Liberia,Light Maritime,Bulk,169159,86192,289,China,Dalian,2023-09-22,Russia,Murmansk,2023-11-09,0,ballast
+Almaz,9150224,Ice 1,Russia,MAGE,Tug,57,182,29,Russia,Murmansk,2023-10-14,Russia,Livadiya,2023-11-15,0,ballast
+NS Arctic,9413547,Ice 3,Liberia,Ns Arctic Shipping,Tanker,111107,62433,250,Russia,Primorsk,2023-10-06,China,Tianjin,2023-11-17,99967.8,crude oil
+Newnew Polar Bear,9313204,Arc 5,Hong Kong,HAINANXIN XIN YANG,Container,15952,16324,169,Russia,Arkhangelsk,2023-10-24,China,Tianjin,2023-12-05,13171.3,containers
+Sevmorput,8729810,Arc 5,Russia,Atomflot,Container,33240,38226,260,Russia,Petropavlovsk-Kamchatskiy,2023-11-15,Russia,"St, Petersburg",2023-12-05,2459.6,containers

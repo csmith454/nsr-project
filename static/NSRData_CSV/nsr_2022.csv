@@ -1,0 +1,44 @@
+Vessel name,IMO,Ice class,Flag,Owner / Operator,Vessel type,DWT,GRT,LOA,Dep Country,Dep Port,Dep Date,Arr Country,Arr Port,Arr Date
+Audax,9763837,Arc 7,Curacao,"Fortune MC Hercules Shipping Ltd,",General cargo,28899,34387,206,China,Tianjin,2021-12-29,Russia,Murmansk,2022-02-17
+Sevmorput,8729810,Arc 5,Russia,Atomflot,Container,33240,38226,260,Russia,Vladivostok,2022-01-17,Russia,Murmansk,2022-02-23
+Ruslana,9352339,Arc 4,Russia,Transflot,General cargo,7750,5057,120,South Korea,Masan,2022-06-25,Russia,Ust-Luga,2022-08-05
+Svyatoy Petr,9035838,Arc 4,Russia,Valkur,Tanker,10960,6441,127,Russia,Beringovskiy,2022-07-06,Russia,Arkhangelsk,2022-07-30
+Sevmorput,8729810,Arc 5,Russia,Atomflot,Container,33240,38226,260,Russia,Murmansk,2022-07-08,Russia,Petropavlovsk-Kamchatskiy,2022-07-21
+Novorossiysk,9692571,Icebreaker 6,Russia,Rosmorport,Icebreaker,5340,13867,120,Russia,Vladivostok,2022-07-25,Russia,Murmansk,2022-08-16
+Sevmorput,8729810,Arc 5,Russia,Atomflot,Container,33240,38226,260,Russia,Petropavlovsk-Kamchatskiy,2022-07-29,Russia,Murmansk,2022-08-10
+Callisto,9040077,Arc 4,Sierra Leone,PKSC,Tanker,10511,6262,124,Russia,Petropavlovsk-Kamchatskiy,2022-08-03,Russia,Arkhangelsk,2022-08-27
+Vladislav Strizhov,9310018,Icebreaker 6,Russia,Mortransservice,Supply,3867,5871,99,Russia,Murmansk,2022-08-03,Russia,Vladivostok,2022-08-26
+Alsey,8602866,No Ice Class,Russia,Antey,Fishing,991,2158,66,Russia,Vladivostok,2022-08-08,Russia,Barents Sea,2022-08-30
+Elara,9437323,Arc 4,Liberia,Braveheart Shipping OPCO LLC,General cargo,16543,15549,133,South Korea,Masan,2022-08-12,Russia,Ust-Luga,2022-09-10
+ATLANTIC,9104017,Ice 1,Russia,OOO Antey,Fishing,3750,3431,82,Russia,Vladivostok,2022-08-13,Russia,Barents Sea,2022-09-08
+OLAFSSON,7704708,Ice 1,Russia,OOO Antey,Fishing,1552,1592,71,Russia,Bering Sea,2022-08-13,Russia,Barents Sea,2022-08-30
+Arctic,9122978,No Ice Class,Russia,DOF MANAGEMENT AS,Supply,4170,3171,84,Russia,Vladivostok,2022-08-15,Russia,Barents Sea,2022-09-08
+PACIFIC HUNTER,8519667,Ice 1,Russia,OOO Antey,Fishing,2118,2190,67,Russia,Bering Sea,2022-08-15,Russia,Barents Sea,2022-08-30
+Jupiter,7712937,Ice 1,Russia,Antey,Fishing,1251,1201,68,Russia,Lorino,2022-08-16,Russia,Barents Sea,2022-08-31
+Odin Express (Bering),9104029,Ice 2,Denmark,MAGE,Supply,4115,3147,83,Russia,Vladivostok,2022-08-17,Russia,Barents Sea,2022-09-07
+Kapitan Martyshkin,8418435,Arc 4,Russia,Marine Rescue Service,SAR,1397,2723,82,Russia,Murmansk,2022-08-21,Russia,Vladivostok,2022-09-17
+Alexander Nevskiy,9356610,Arc 4,Russia,Valkur,Tanker,17069,12162,144,Russia,Egvekinot,2022-08-23,Russia,Arkhangelsk,2022-09-07
+EGOR LETOV,9609732,Ice 3,Liberia,"EGOR LETOV SHIPPING LTD,",Bulk,74518,40972,225,South Korea,Busan,2022-08-23,Russia,Ust-Luga,2022-09-21
+GELIODOR,9031636,Ice 2,Russia,GAZPROMNEFT SHIPPING LTD,Tanker,2774,1666,79,Russia,Arkhangelsk,2022-08-26,Russia,Anadyr,2022-09-12
+ARKA-36,9037525,No Ice Class,Russia,OOO Antey,Fishing,611,815,59,Russia,Petropavlovsk-Kamchatskiy,2022-09-02,Russia,Barents Sea,2022-09-19
+ALEKSANDRA,8924537,Ice 3,Russia,OOO PRIMRYBFLOT,Fishing,390,798,54,Russia,Petropavlovsk-Kamchatskiy,2022-09-02,Russia,Barents Sea,2022-09-20
+ARKA-35,8717568,No Ice Class,Russia,OOO Antey,Fishing,375,777,55,Russia,Petropavlovsk-Kamchatskiy,2022-09-02,Russia,Barents Sea,2022-09-19
+Mys Zhelaniya,9366110,Arc 4,Russia,Eco Shipping,General cargo,17300,11864,143,China,Tianjin,2022-09-08,Russia,Murmansk,2022-10-05
+Arctic,9122978,No Ice Class,Russia,DOF MANAGEMENT AS,Supply,4170,3171,84,Russia,Barents Sea,2022-09-08,Russia,Zarubino,2022-10-11
+ANATOLIY CHERNEEV,9910478,Ice 2,Russia,Kamchattransflot,General cargo,1486,2227,75,Russia,Belomorsk,2022-09-08,Russia,Petropavlovsk-Kamchatskiy,2022-10-08
+MATRITSA,8810451,No Ice Class,Russia,OOO Antey,Fishing,448,746,57,Russia,Petropavlovsk-Kamchatskiy,2022-09-08,Russia,Barents Sea,2022-09-23
+KAPITAN RUSANOV,9888950,No Ice Class,Russia,Kolhoz Murman,Fishing,1184,693,53,China,Dalian,2022-09-10,Russia,Murmansk,2022-10-11
+Sapodilla,9418999,Arc 4,Liberia,Briese Schiffahrts GmbH & Co KG,General cargo,16523,15549,166,Russia,Vanino,2022-09-21,Russia,Murmansk,2022-10-10
+OLAFSSON,7704708,Ice 1,Russia,OOO Antey,Fishing,1552,1592,71,Russia,Barents Sea,2022-09-22,Russia,Vladivostok,2022-10-09
+ATLANTIC,9104017,Ice 1,Russia,OOO Antey,Fishing,3750,3431,82,Russia,Barents Sea,2022-09-24,Russia,Zarubino,2022-10-15
+PACIFIC HUNTER,8519667,Ice 1,Russia,OOO Antey,Fishing,2118,2190,67,Russia,Barents Sea,2022-09-24,Russia,Zarubino,2022-10-17
+Alsey,8602866,No Ice Class,Russia,Antey,Fishing,991,2158,66,Russia,Barents Sea,2022-09-26,Russia,Vladivostok,2022-10-20
+Jupiter,7712937,Ice 1,Russia,Antey,Fishing,1251,1201,68,Russia,Barents Sea,2022-09-27,Russia,Zarubino,2022-10-21
+Odin Express (Bering),9104029,Ice 2,Denmark,MAGE,Supply,4115,3147,83,Russia,Barents Sea,2022-09-29,Russia,Vladivostok,2022-10-17
+KAPITAN VDOVICHENKO,9878321,Ice 3,Russia,OOO Mintay Perviy,Fishing,6746,9055,108,Russia,Murmansk,2022-10-01,Russia,Petropavlovsk-Kamchatskiy,2022-10-14
+Sevmorput,8729810,Arc 5,Russia,Atomflot,Container,33240,38226,260,Russia,"St, Petersburg",2022-10-09,Russia,Nakhodka,2022-10-29
+PANDAR,9000235,Ice 2,Russia,Morskoy Standart Co Ltd,Tanker,6810,5025,116,Russia,Petropavlovsk-Kamchatskiy,2022-10-09,Russia,Arkhangelsk,2022-11-02
+ELLADORA,8822375,Ice 1,Russia,DEFA Fishing LLC,Fishing,1919,1523,60,Norway,Kirkenes,2022-10-21,Russia,Vladivostok,2022-11-22
+VASILY DINKOV,9372547,Arc 6,Russia,SOVCOMFLOT,Tanker,72722,49597,257,Russia,Murmansk,2022-10-27,China,Rizhao,2022-11-23
+Monchegorsk,9404015,Arc 7,Russia,Norilsk Nickel,Container,18486,16994,169,Russia,Nakhodka,2022-11-01,Russia,Murmansk,2022-11-24
+Sevmorput,8729810,Arc 5,Russia,Atomflot,Container,33240,38226,260,Russia,Nakhodka,2022-11-10,Russia,"St, Petersburg",2022-12-15
